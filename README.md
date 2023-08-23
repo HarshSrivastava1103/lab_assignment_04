@@ -1,3 +1,3 @@
 # lab_assignment_04
 
-## A new line added inside Vs Code..
+## A new line added inside Vs code
